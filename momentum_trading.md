@@ -28,10 +28,7 @@ The Momentum Trading Strategy is designed to capitalize on strong trends by usin
 - **Stop-Loss**: Set at a percentage below the entry price (e.g., 2%) to limit potential losses.
 - **Take-Profit**: Based on a predefined target or when momentum starts to decrease.
 
-
-
-
-
+![Strategy Plot](file:///C:/Users/Shoaib%20khan/Downloads/pics%20for%20algo%20port/Figure_3.png)
 
 
 ## Example Code
