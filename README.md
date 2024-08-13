@@ -1,4 +1,4 @@
-# Shoaibkhan.github.io
+# Shoaibkhan
 
 Welcome to my GitHub Pages portfolio! This space is dedicated to showcasing my work in algorithmic trading. Here, you'll find a comprehensive collection of trading algorithms, educational content, and projects that reflect my expertise in the financial markets.
 
