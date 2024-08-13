@@ -17,8 +17,8 @@ With over 3.7 years of experience in trading, I specialize in developing effecti
 Explore the different algorithmic trading strategies I've developed:
 
 - [Momentum Trading Strategy](momentum_trading.md)
-- [Mean Reversion Strategy](mean_reversion.md)
-- [Trend Following Strategy](trend_following.md)
+- [Mean Reversion Strategy](meanreversion.md)
+- [Trend Following Strategy](trendfollowing.md)
 - [Pairs Trading Strategy](pairs_trading.md)
 - [Algorithmic Scalping Strategy](scalping.md)
 
