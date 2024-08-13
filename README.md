@@ -1,6 +1,6 @@
-# Shoaibkhan
+# Shoaib Khan
 
-Welcome to my GitHub Pages portfolio! This space is dedicated to showcasing my work in algorithmic trading. Here, you'll find a comprehensive collection of trading algorithms, educational content, and projects that reflect my expertise in the financial markets.
+Welcome to my portfolio! This space is dedicated to showcasing my work in algorithmic trading. Here, you'll find a comprehensive collection of trading algorithms, educational content, and projects that reflect my expertise in the financial markets.
 
 ## About Me
 With over 3.7 years of experience in trading, I specialize in developing effective algorithmic trading strategies. My goal is to simplify the complexities of trading for others and provide tools that empower traders to achieve consistent success.
@@ -17,9 +17,10 @@ With over 3.7 years of experience in trading, I specialize in developing effecti
 - Experiment with the interactive demos to see strategies in action.
 
 ## Get in Touch
-I’m always open to discussions and collaborations. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/shoaibkhanAlgo) or via email at Shoaib345ds@gmail.com.
+I’m always open to discussions and collaborations. Feel free to reach out through [Instagram](https://www.instagram.com/ku_shoaibkhan?igsh=YndzcnEybjAyOXM2) or via email at Shoaib345ds@gmail.com.
 
 ---
 
 Thank you for visiting my portfolio. I hope the content here provides valuable insights and enhances your trading journey.
+
 
