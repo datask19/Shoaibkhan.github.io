@@ -1,6 +1,7 @@
 # ShoaibKhan.github.io
 
 Welcome to my portfolio! This space is dedicated to showcasing my work in algorithmic trading. Here, you'll find a comprehensive collection of trading algorithms, educational content, and projects that reflect my expertise in the financial markets.
+For More updates: [Instagram](https://www.instagram.com/ku_shoaibkhan?igsh=YndzcnEybjAyOXM2) 
 
 ## About Me
 With over 3.7 years of experience in trading, I specialize in developing effective algorithmic trading strategies. My goal is to simplify the complexities of trading for others and provide tools that empower traders to achieve consistent success.
