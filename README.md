@@ -11,13 +11,21 @@ With over 3.7 years of experience in trading, I specialize in developing effecti
 - **Projects and Case Studies:** Discover real-world applications of trading strategies through in-depth case studies and project showcases.
 - **Interactive Demos:** Engage with visuals and tools that make understanding trading concepts more intuitive.
 
-## How to Navigate
-- Browse through the sections to explore different aspects of algorithmic trading.
-- Utilize the educational resources to deepen your understanding of trading mechanics.
-- Experiment with the interactive demos to see strategies in action.
+## Algorithmic Trading Strategies
+
+Explore the different algorithmic trading strategies I've developed:
+
+- [Momentum Trading Strategy](momentum_trading.md)
+- [Mean Reversion Strategy](mean_reversion.md)
+- [Trend Following Strategy](trend_following.md)
+- [Pairs Trading Strategy](pairs_trading.md)
+- [Algorithmic Scalping Strategy](scalping.md)
 
 ## Get in Touch
-I’m always open to discussions and collaborations. Feel free to reach out through [Instagram](https://www.instagram.com/ku_shoaibkhan?igsh=YndzcnEybjAyOXM2) or via email at Shoaib345ds@gmail.com.
+I’m always open to discussions and collaborations. 
+Feel free to reach out through:
+[Instagram](https://www.instagram.com/ku_shoaibkhan?igsh=YndzcnEybjAyOXM2) 
+email : Shoaib345ds@gmail.com.
 
 ---
 
